@@ -1,4 +1,4 @@
-<h1>Hi, I'm Miranda!
+<h1>Hi, I'm Miranda!</h1>
 I am a highly motivated recent computer science graduate looking to secure an entry-level position that will allow me to build a successful career as a web developer.
 <h2>Software Development Projects:</h2>
 
