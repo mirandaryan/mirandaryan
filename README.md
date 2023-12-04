@@ -6,7 +6,7 @@ I am a highly motivated recent computer science graduate looking to secure an en
   - [Red River Rage Website](https://github.com/mirandaryan/RedRiverRage)
 
 - <b>Flutter</b>
-  - [Better Weather App](https://github.com/mirandaryan/BetterWeather) *In Progress*
+  - [Better Weather App](https://github.com/mirandaryan/BetterWeather) 
     
 - <b>Angular</b>
   - [Dragon Palace Restaurant Website](https://github.com/mirandaryan/Dragon-Palace)
